@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        int f, c, filaASumar;
+        int f, c;
         System.out.print("Ingrese el número de filas de la matriz: ");
         f = leerEntero();
         System.out.print("Ingrese el número de columnas de la matriz: ");
